@@ -5,7 +5,7 @@
 <html>
 
 <head>
-	<title>List Surveys</title>
+	<title>List Survey</title>
 	
 	<!-- reference our style sheet -->
 
